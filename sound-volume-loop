@@ -1,0 +1,4 @@
+while true; do
+	pactl set-source-volume alsa_input.pci-0000_08_00.4.analog-stereo 40%
+	sleep 3
+done

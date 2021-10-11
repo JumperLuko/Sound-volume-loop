@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Sound volume loop
+Exec=sound-volume-loop
+Icon=system-run
+X-GNOME-Autostart-enabled=true
